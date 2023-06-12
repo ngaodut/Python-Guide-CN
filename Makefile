@@ -5,3 +5,4 @@ build: html
 # in docs/Makefile) in this directory as though you were in docs/
 %:
 	cd docs && make $@
+	
